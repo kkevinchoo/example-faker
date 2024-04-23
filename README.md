@@ -24,6 +24,7 @@ Este script PHP utiliza Faker para generar datos ficticios de productos y los in
 
 1. Ejecuta el script `generate_products.php` desde la línea de comandos usando `php generate_products.php`.
 2. Verifica la salida del script para asegurarte de que la tabla de productos se haya creado correctamente y los datos se hayan insertado en la base de datos.
+3. usado: https://dummyjson.com/docs/products
 
 ## Contribución
 
